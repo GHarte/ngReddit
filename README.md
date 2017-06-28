@@ -1,6 +1,7 @@
 # NgReddit
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.2.
+It is a basic clone of the Reddit homepage. View it live here: https://dist-cdxuijzteh.now.sh/
 
 ## Development server
 
